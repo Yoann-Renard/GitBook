@@ -1,7 +1,5 @@
 # C.V.
 
-
-
 ![](<../.gitbook/assets/Moderne Professionnel C.V..png>)
 
 ### PDF Version
