@@ -7,7 +7,7 @@
 * [Creating your first project](documents/creating-your-first-project.md)
 * [Creating your first task](documents/creating-your-first-task.md)
 * [Advanced permissions](documents/advanced-permissions.md)
-* [My C.V.](documents/my-c.v..md)
+* [C.V.](documents/c.v..md)
 
 ## 🔬 MY PROJECTS
 
