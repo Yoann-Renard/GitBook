@@ -22,15 +22,13 @@
 
 </details>
 
-{% embed url="https://github.com/Yoann-Renard" %}
+![](https://github-readme-stats.vercel.app/api?include\_all\_commits=true\&show\_icons=true\&theme=dark\&username=Yoann-Renard)
 
-![](https://github-readme-stats.vercel.app/api?username=Yoann-Renard\&show\_icons=true\&theme=onedark\&include\_all\_commits=true)
+![](https://github-profile-trophy.vercel.app/?username=Yoann-Renard\&row=1\&theme=darkhub)
 
-![](https://github-profile-trophy.vercel.app/?username=Yoann-Renard\&row=1\&theme=onedark)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Yoann-Renard\&theme=dark)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Yoann-Renard\&theme=onedark)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yoann-Renard\&layout=compact\&langs\_count=10\&hide=javascript,html,css,php,tsql,hack\&theme=onedark)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yoann-Renard\&layout=compact\&langs\_count=10\&hide=html,css,php\&theme=dark)
 
 {% hint style="info" %}
 **Good to know:** providing a brief overview of your product and its core use cases is a great place to start with product docs. Your product might seem obvious to you – you made it! However, to others, even folks who are trying your product after reading your site or getting a sales demo, it can still be unclear. This is your chance to clarify your product and set the right expectations!
@@ -52,8 +50,6 @@ Here are a couple of examples of succinct overviews from products with really gr
 
 **Got 2 minutes?** Check out a video overview of our product:
 
-{% embed url="https://www.loom.com/share/3bfa83acc9fd41b7b98b803ba9197d90" %}
-
 {% hint style="info" %}
 **Good to know:** A succinct video overview is a great way to introduce folks to your product. Embed a Loom, Vimeo or YouTube video and you're good to go! We love this video from the fine folks at [Loom](https://loom.com) as a perfect example of a succinct feature overview.
 {% endhint %}
@@ -62,16 +58,16 @@ Here are a couple of examples of succinct overviews from products with really gr
 
 Follow our handy guides to get started on the basics as quickly as possible:
 
-{% content-ref url="documents/creating-your-first-project.md" %}
-[creating-your-first-project.md](documents/creating-your-first-project.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="documents/creating-your-first-task.md" %}
-[creating-your-first-task.md](documents/creating-your-first-task.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="documents/advanced-permissions.md" %}
-[advanced-permissions.md](documents/advanced-permissions.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 {% hint style="info" %}

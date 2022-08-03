@@ -4,9 +4,6 @@
 
 ## DOCUMENTS
 
-* [Creating your first project](documents/creating-your-first-project.md)
-* [Creating your first task](documents/creating-your-first-task.md)
-* [Advanced permissions](documents/advanced-permissions.md)
 * [C.V.](documents/c.v..md)
 
 ## 🔬 MY PROJECTS
@@ -18,4 +15,4 @@
 
 ## Extras
 
-* [Socials](extras/socials.md)
+* [Links](extras/links.md)
